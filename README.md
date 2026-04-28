@@ -5,13 +5,13 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PWAQWE-mew&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rvwa&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" alt="trophies" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=PWAQWE-mew&theme=tokyonight&hide_border=true&date_format=j+M%5B+D%5D" alt="github streak" />
+  <img src="https://streak-stats.demolab.com/?user=rvwa&theme=tokyonight&hide_border=true&date_format=j+M%5B+D%5D" alt="github streak" />
 </div>
 
 <br>
@@ -80,7 +80,7 @@
 # 🌐 Where to Find Me
 
 <p align="center">
-  <a href="https://github.com/PWAQWE-mew">
+  <a href="https://github.com/rvwa">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://x.com/LittleTimmy434">
@@ -92,5 +92,5 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PWAQWE-mew&label=Profile+Views&color=00D9FF&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=rvwa&label=Profile+Views&color=00D9FF&style=flat-square" alt="profile views" />
 </div>
