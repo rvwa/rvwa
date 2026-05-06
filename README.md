@@ -77,24 +77,24 @@
 
 ## 🪟 Custom Windows
 <p align="center">
-  <a href="https://www.microsoft.com/en-us/windows/windows-11"><img src="./Windows 11, Tiny11 .png" width="52" alt="Windows 11 / Tiny11" /></a>
-  <a href="https://www.microsoft.com/en-us/software-download/windows10"><img src="./Windows 10.png" width="52" alt="Windows 10" /></a>
-  <a href="https://techpp.com/2018/04/16/windows-7-iso-official-direct-download-links/"><img src="./Windows 7.png" width="52" alt="Windows 7" /></a>
-  <a href="https://dsc.gg/xos"><img src="./xOS.png" width="52" alt="xOS" /></a>
-  <a href="https://www.revi.cc/"><img src="./Revision.png" width="52" alt="Revision" /></a>
-  <a href="https://atlasos.net/"><img src="./AtlasOs.png" width="52" alt="AtlasOS" /></a>
-  <a href="https://kernelos.org/"><img src="./KernelOS.png" width="52" alt="KernelOS" /></a>
+  <a href="https://www.microsoft.com/en-us/windows/windows-11"><img src="./Windows 11, Tiny11 .png" width="68" alt="Windows 11 / Tiny11" /></a>
+  <a href="https://www.microsoft.com/en-us/software-download/windows10"><img src="./Windows 10.png" width="68" alt="Windows 10" /></a>
+  <a href="https://techpp.com/2018/04/16/windows-7-iso-official-direct-download-links/"><img src="./Windows 7.png" width="68" alt="Windows 7" /></a>
+  <a href="https://dsc.gg/xos"><img src="./xOS.png" width="68" alt="xOS" /></a>
+  <a href="https://www.revi.cc/"><img src="./Revision.png" width="68" alt="Revision" /></a>
+  <a href="https://atlasos.net/"><img src="./AtlasOs.png" width="68" alt="AtlasOS" /></a>
+  <a href="https://kernelos.org/"><img src="./KernelOS.png" width="68" alt="KernelOS" /></a>
 </p>
 
 ## 🐡 BSD
 <p align="center">
-  <a href="https://www.freebsd.org/"><img src="./FreeBSD.png" width="52" alt="FreeBSD" /></a>
-  <a href="https://www.openbsd.org/"><img src="./OpenBSD.png" width="52" alt="OpenBSD" /></a>
+  <a href="https://www.freebsd.org/"><img src="./FreeBSD.png" width="68" alt="FreeBSD" /></a>
+  <a href="https://www.openbsd.org/"><img src="./OpenBSD.png" width="68" alt="OpenBSD" /></a>
 </p>
 
 ## ⛪ TempleOS
 <p align="center">
-  <a href="https://templeos.org/"><img src="./TempleOS.png" width="52" alt="TempleOS" /></a>
+  <a href="https://templeos.org/"><img src="./TempleOS.png" width="68" alt="TempleOS" /></a>
 </p>
 
 <br>
