@@ -80,10 +80,10 @@
   <a href="https://www.microsoft.com/en-us/windows/windows-11"><img src="./Windows 11, Tiny11 .png" width="52" alt="Windows 11 / Tiny11" /></a>
   <a href="https://www.microsoft.com/en-us/windows"><img src="./Windows 10.png" width="52" alt="Windows 10" /></a>
   <a href="https://www.microsoft.com/en-us/windows"><img src="./Windows 7.png" width="52" alt="Windows 7" /></a>
-  <a href="#"><img src="./xOS.png" width="52" alt="xOS" /></a>
-  <a href="#"><img src="./Revision.png" width="52" alt="Revision" /></a>
-  <a href="#"><img src="./AtlasOS.png" width="52" alt="AtlasOS" /></a>
-  <a href="#"><img src="./KernelOS.jpg" width="52" alt="KernelOS" /></a>
+  <a href="https://dsc.gg/xos"><img src="./xOS.png" width="52" alt="xOS" /></a>
+  <a href="https://www.revi.cc/"><img src="./Revision.png" width="52" alt="Revision" /></a>
+  <a href="https://atlasos.net/"><img src="./AtlasOS.png" width="52" alt="AtlasOS" /></a>
+  <a href="https://kernelos.org/"><img src="./KernelOS.png" width="52" alt="KernelOS" /></a>
 </p>
 
 ## 🐡 BSD
