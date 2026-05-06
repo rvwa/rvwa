@@ -82,7 +82,7 @@
   <a href="https://www.microsoft.com/en-us/windows"><img src="./Windows 7.png" width="52" alt="Windows 7" /></a>
   <a href="https://dsc.gg/xos"><img src="./xOS.png" width="52" alt="xOS" /></a>
   <a href="https://www.revi.cc/"><img src="./Revision.png" width="52" alt="Revision" /></a>
-  <a href="https://atlasos.net/"><img src="./AtlasOS.png" width="52" alt="AtlasOS" /></a>
+  <a href="https://atlasos.net/"><img src="./AtlasOS.png" width="52" alt="AtlasOs" /></a>
   <a href="https://kernelos.org/"><img src="./KernelOS.png" width="52" alt="KernelOS" /></a>
 </p>
 
