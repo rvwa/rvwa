@@ -75,10 +75,31 @@
   <a href="https://bedrocklinux.org/"><img src="./5713885.png" width="52" alt="Bedrock Linux" /></a>
 </p>
 
+## 🪟 Custom Windows
+<p align="center">
+  <a href="https://www.microsoft.com/en-us/windows/windows-11"><img src="./Windows 11, Tiny11 .png" width="52" alt="Windows 11 / Tiny11" /></a>
+  <a href="https://www.microsoft.com/en-us/windows"><img src="./Windows 10.png" width="52" alt="Windows 10" /></a>
+  <a href="https://www.microsoft.com/en-us/windows"><img src="./Windows 7.png" width="52" alt="Windows 7" /></a>
+  <a href="#"><img src="./xOS.png" width="52" alt="xOS" /></a>
+  <a href="#"><img src="./Revision.png" width="52" alt="Revision" /></a>
+  <a href="#"><img src="./AtlasOS.png" width="52" alt="AtlasOS" /></a>
+  <a href="#"><img src="./KernelOS.jpg" width="52" alt="KernelOS" /></a>
+</p>
+
+## 🐡 BSD
+<p align="center">
+  <a href="https://www.freebsd.org/"><img src="./FreeBSD.png" width="52" alt="FreeBSD" /></a>
+  <a href="https://www.openbsd.org/"><img src="./OpenBSD.png" width="52" alt="OpenBSD" /></a>
+</p>
+
+## ⛪ TempleOS
+<p align="center">
+  <a href="https://templeos.org/"><img src="./TempleOS.png" width="52" alt="TempleOS" /></a>
+</p>
+
 <br>
 
 # 🌐 Where to Find Me
-
 <p align="center">
   <a href="https://github.com/rvwa">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
